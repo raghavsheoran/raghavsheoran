@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raghavsheoran
 - 👀 I’m interested in data science, ML and programming languages.
-- 🌱 I’m currently learning the IBM data science course
 - 💞️ I’m looking to collaborate on projects and assignment that come across me in future
 
 <!---
